@@ -1,0 +1,7 @@
+
+testPic/
+mysite/cache_pic/
+mysite/myfont/cache_pic/
+mysite/myfont/__pycache__/
+mysite/mysite/__pycache__/
+mysite/myfont/static/myfont/upload/
